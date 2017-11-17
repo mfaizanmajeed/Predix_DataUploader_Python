@@ -5,7 +5,7 @@ import os
 import predix.app
 import predix.data.timeseries
 from glob import glob
-pth = "K:\\Profesional Work\\Predix\\Eclipse\\UpdatingServer\\Engro\\newmqtt\\new\\"
+pth = "K:\\"
 app = predix.app.Manifest('manifest.yml')
 
 # We will use Time Series to ingest data
